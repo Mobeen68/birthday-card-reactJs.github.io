@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/birthday-card-using-reactjs/static/css/main.ad912065.chunk.css",
-    "main.js": "/birthday-card-using-reactjs/static/js/main.0ccf463c.chunk.js",
-    "main.js.map": "/birthday-card-using-reactjs/static/js/main.0ccf463c.chunk.js.map",
-    "runtime-main.js": "/birthday-card-using-reactjs/static/js/runtime-main.c51552e6.js",
-    "runtime-main.js.map": "/birthday-card-using-reactjs/static/js/runtime-main.c51552e6.js.map",
-    "static/js/2.d7037cf4.chunk.js": "/birthday-card-using-reactjs/static/js/2.d7037cf4.chunk.js",
-    "static/js/2.d7037cf4.chunk.js.map": "/birthday-card-using-reactjs/static/js/2.d7037cf4.chunk.js.map",
-    "index.html": "/birthday-card-using-reactjs/index.html",
-    "static/css/main.ad912065.chunk.css.map": "/birthday-card-using-reactjs/static/css/main.ad912065.chunk.css.map",
-    "static/js/2.d7037cf4.chunk.js.LICENSE.txt": "/birthday-card-using-reactjs/static/js/2.d7037cf4.chunk.js.LICENSE.txt"
+    "main.css": "/birthday-card-reactjs/static/css/main.ad912065.chunk.css",
+    "main.js": "/birthday-card-reactjs/static/js/main.0ccf463c.chunk.js",
+    "main.js.map": "/birthday-card-reactjs/static/js/main.0ccf463c.chunk.js.map",
+    "runtime-main.js": "/birthday-card-reactjs/static/js/runtime-main.300a113c.js",
+    "runtime-main.js.map": "/birthday-card-reactjs/static/js/runtime-main.300a113c.js.map",
+    "static/js/2.d7037cf4.chunk.js": "/birthday-card-reactjs/static/js/2.d7037cf4.chunk.js",
+    "static/js/2.d7037cf4.chunk.js.map": "/birthday-card-reactjs/static/js/2.d7037cf4.chunk.js.map",
+    "index.html": "/birthday-card-reactjs/index.html",
+    "static/css/main.ad912065.chunk.css.map": "/birthday-card-reactjs/static/css/main.ad912065.chunk.css.map",
+    "static/js/2.d7037cf4.chunk.js.LICENSE.txt": "/birthday-card-reactjs/static/js/2.d7037cf4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c51552e6.js",
+    "static/js/runtime-main.300a113c.js",
     "static/js/2.d7037cf4.chunk.js",
     "static/css/main.ad912065.chunk.css",
     "static/js/main.0ccf463c.chunk.js"
