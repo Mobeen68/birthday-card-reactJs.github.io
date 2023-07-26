@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/birthday-card-reactJs.github.io/static/css/main.51f9dbd1.chunk.css",
-    "main.js": "/birthday-card-reactJs.github.io/static/js/main.957bb38d.chunk.js",
-    "main.js.map": "/birthday-card-reactJs.github.io/static/js/main.957bb38d.chunk.js.map",
+    "main.js": "/birthday-card-reactJs.github.io/static/js/main.f679ffe2.chunk.js",
+    "main.js.map": "/birthday-card-reactJs.github.io/static/js/main.f679ffe2.chunk.js.map",
     "runtime-main.js": "/birthday-card-reactJs.github.io/static/js/runtime-main.8ee3bad3.js",
     "runtime-main.js.map": "/birthday-card-reactJs.github.io/static/js/runtime-main.8ee3bad3.js.map",
     "static/js/2.d7037cf4.chunk.js": "/birthday-card-reactJs.github.io/static/js/2.d7037cf4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8ee3bad3.js",
     "static/js/2.d7037cf4.chunk.js",
     "static/css/main.51f9dbd1.chunk.css",
-    "static/js/main.957bb38d.chunk.js"
+    "static/js/main.f679ffe2.chunk.js"
   ]
 }
